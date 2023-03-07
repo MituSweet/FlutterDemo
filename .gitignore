@@ -112,3 +112,4 @@ lint/tmp/
 *.hprof
 
 /app/src/test/java/com/demo/gitteest/ExampleUnitTest.kt
+/app/src/androidTest/java/com/demo/gitteest/ExampleInstrumentedTest.kt
